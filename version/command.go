@@ -52,4 +52,3 @@ func NewVersionCommand() *cobra.Command {
 
 	return cmd
 }
-...
